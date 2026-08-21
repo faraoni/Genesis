@@ -1,0 +1,6 @@
+{
+  "name": "Embryo3D - Human Embryology Interactive Atlas",
+  "description": "Interactive 3D human embryology educational atlas featuring detailed developmental stage timelines, Carnegie stages, dedicated sections for stages of systems and organs development, anatomical cross-sections, germ layer tracking, and AI developmental tutor.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
